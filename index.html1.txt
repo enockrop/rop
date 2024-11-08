@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enock Rop - Academic Support Services</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Enock Rop - Electrical Engineer & Academic Support Specialist</h1>
+        <p>Are you looking for top-notch academic support?</p>
+        <nav>
+            <a href="index.html">Home</a> | 
+            <a href="about.html">About Me</a>
+        </nav>
+    </header>
+
+    <section class="services">
+        <h2>Services I Offer</h2>
+        <ul>
+            <li>Online Classes</li>
+            <li>Assignments</li>
+            <li>Reports</li>
+            <li>Research</li>
+            <li>Theses</li>
+            <li>Quizzes</li>
+            <li>Activities</li>
+            <li>Homework</li>
+            <li>Exams</li>
+            <li>Projects</li>
+        </ul>
+    </section>
+
+    <section class="contact">
+        <h2>Contact Me Today!</h2>
+        <p>Phone/WhatsApp: +254703486797</p>
+        <p>Email: <a href="mailto:enockkipkogeirop@gmail.com">enockkipkogeirop@gmail.com</a> or <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+    </section>
+
+    <footer>
+        <p>Enock Rop - Academic Support Services &copy; 2024</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Enock Rop - Academic Support Specialist</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>About Enock Rop</h1>
+        <nav>
+            <a href="index.html">Home</a> | 
+            <a href="about.html">About Me</a>
+        </nav>
+    </header>
+
+    <section class="about">
+        <h2>How I Can Help You Excel</h2>
+        <p>
+            I’m Enock Rop, an experienced electrical engineer passionate about education. With a strong foundation in engineering, 
+            I bring a unique approach to academic support that combines practical insights and hands-on expertise. 
+            My goal is to help students not only pass their classes but truly understand the material for long-term success.
+        </p>
+        <p>
+            I offer personalized assistance tailored to your learning style, ensuring you’re well-prepared for all assignments, 
+            exams, and projects. Whether it’s solving complex engineering problems, preparing reports, or enhancing 
+            your research skills, I’m here to guide you every step of the way.
+        </p>
+        <p>
+            Together, we can unlock your full academic potential and make learning an empowering experience. Let’s 
+            collaborate to boost your grades, strengthen your understanding, and achieve academic excellence!
+        </p>
+        <p><a href="index.html" class="button">Go Back to Home</a></p>
+    </section>
+
+    <footer>
+        <p>Enock Rop - Academic Support Services &copy; 2024</p>
+    </footer>
+</body>
+</html>
